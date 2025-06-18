@@ -10,6 +10,9 @@ Heart disease remains a leading global cause of death, especially in low-resourc
 
 - **Data-Driven Insights**: Generate actionable insights from large datasets, helping to inform treatment decisions and preventive measures.
 
+### Model Training Results Table
+
+The table below summarizes the performance of various neural network configurations tested for heart disease prediction. Each row represents a different experiment, detailing the optimizer, regularization method, learning rate, and other hyperparameters used, along with the resulting accuracy, F1 score, recall, precision, and loss. This comparison helps identify which model setup yields the best predictive performance for the dataset.
 
 | Instance | Model          | Optimizer | Regularization | Epochs | Early Stopping | Layers | Learning Rate | Accuracy | F1 Score | Recall | Precision | Loss   |
 |----------|----------------|-----------|----------------|--------|----------------|--------|----------------|----------|----------|--------|-----------|--------|
