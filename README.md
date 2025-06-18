@@ -74,3 +74,6 @@ Overall, models with early stopping and regularization performed better, highlig
 
 4. Run all cells in the notebook to train and evaluate the models.
 
+
+# Video
+**Watch:** [Presentation Video](https://youtu.be/FBgzpOTOVbk))
